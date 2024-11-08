@@ -25,7 +25,7 @@ Expect a surprise or two—from Kaggle datasets to data stories that make data s
 ### 🤝 Wanna Connect?
 KAI’s always game for new challenges, cool projects, and awesome people!
 
-- 🌐 **LinkedIn**: [🚧 Coming Soon!](https://www.linkedin.com/in/tan-kai-long-496136231/)
+- 🌐 **LinkedIn**: 🚧 Coming Soon!
 
 Thanks for stopping by—dive in, explore, and let’s make data awesome! 😊
 
