@@ -16,7 +16,7 @@ Welcome! KAI is a Civil Engineer who made an unexpected yet thrilling turn into 
 ### 🤝 Wanna Connect?
 KAI’s always game for new challenges, cool projects, and awesome people!
 
-- 🌐 **LinkedIn**: [🚀](https://www.linkedin.com/in/tan-kai-long-496136231/)
+- 🌐 **LinkedIn**: [🚧 Coming Soon!](https://www.linkedin.com/in/tan-kai-long-496136231/)
 
 Thanks for stopping by—dive in, explore, and let’s make data awesome! 😊
 
