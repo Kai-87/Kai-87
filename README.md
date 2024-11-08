@@ -5,7 +5,7 @@
 Welcome! KAI is a Civil Engineer who made an unexpected yet thrilling turn into the world of data. From calculating concrete strength to predicting patterns in datasets, he’s all about finding innovative solutions—be it in engineering, gaming, or just about any curious corner of life.
 
 ### 🌟 What’s KAI Up To?
-- **Unlocking Data Mysteries**: With a toolkit full of machine learning magic, Kai is always on a quest to turn data into gold
+- **Unlocking Data Mysteries**: With a toolkit full of machine learning magic, KAI is always on a quest to turn data into gold
 - **Engineering Meets Analytics**: KAI’s engineering background means he’s got a unique take on data-driven projects, especially in the built environment and sustainability
 
 ### 🔍 What’s Inside the Repos?
